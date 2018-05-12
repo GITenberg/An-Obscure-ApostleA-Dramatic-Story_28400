@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9367
     wikipedia: http://en.wikipedia.org/wiki/Eliza_Orzeszkowa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28400#An-Obscure-ApostleA-Dramatic-Story
 gutenberg_issued: '2009-03-24'
 gutenberg_type: Text
 identifiers:
